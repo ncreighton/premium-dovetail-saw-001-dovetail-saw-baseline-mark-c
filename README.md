@@ -1,0 +1,2 @@
+# premium-dovetail-saw-001-dovetail-saw-baseline-mark-c
+Stop juggling sticky notes and scattered scrap wood logs—your dovetail saw settings and baseline marks deserve a single source of truth that evolves with every project.  This Notion hub eliminates the chaos of remembering which saw kerf width or baseline offset you used for each piece. It centralizes your dovetail saw profiles, baseline measurement
